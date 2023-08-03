@@ -10,7 +10,7 @@ class Parser:
          except:
              print("Invalid file name/Path!")
 
-print(myseries)     def findAverages(self):
+     def findAverages(self):
         self.averages  = self.data.iloc[:, 2:].mean()
 
      def printAverages(self):
