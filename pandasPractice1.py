@@ -13,9 +13,6 @@ class Parser:
      def findAverages(self):
         self.averages  = self.data.iloc[:, 2:].mean()
 
-     def findAverages(self):
-        self.averages  = self.data.iloc[:, 2:].mean()
-
      def printAverages(self):
          print(self.averages)
 a = Parser()
