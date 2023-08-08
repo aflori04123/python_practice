@@ -32,12 +32,6 @@ Detailed instructions and code examples are provided in the project documentatio
 
 Web scraping should be done ethically and legally, respecting website terms of use and privacy regulations.
 
-## Contributions
-
-Contributions are welcome! Please refer to the contribution guidelines in the project repository.
-
 ---
 
 Maintained by [Arthur Floriano]
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
