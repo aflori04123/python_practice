@@ -1,7 +1,7 @@
 import scrapy
 from bookscraper.items import BookItem 
 
-
+#newest
 class BookspiderSpider(scrapy.Spider):
     name = "bookspider"
     allowed_domains = ["books.toscrape.com"]
